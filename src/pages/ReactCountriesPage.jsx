@@ -69,8 +69,6 @@ export default function ReactCountriesPage() {
           })}
         </Countries>
       </Main>
-
-      <div>{}</div>
     </div>
   );
 }
