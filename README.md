@@ -1,7 +1,7 @@
-# React Country
+# React Countries
 Aplicação React para busca de países e seleção de países visitados.
 
-Este é o React Country, uma aplicação desenvolvida com React para busca de países e seleção de países visitados
+Este é o React Countries, uma aplicação desenvolvida com React para busca de países e seleção de países visitados
 
 Este é um prejeto que possui alguns conceitos do React, sendo um dos principais o conceito de Props Drilling 
 
