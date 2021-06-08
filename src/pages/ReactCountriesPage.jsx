@@ -25,6 +25,7 @@ export default function ReactCountriesPage() {
     }
     setVisitedCountries(newVisitedCountries);
   }
+
   // Filtrando o input em letras LowerCase
   const countryFilterLowerCase = countryFilter.trim().toLocaleLowerCase();
 
