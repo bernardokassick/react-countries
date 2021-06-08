@@ -1,4 +1,4 @@
-# react-country
+# React Country
 Aplicação React para busca de países e seleção de países visitados.
 
 Este é o React Country, uma aplicação desenvolvida com React para busca de países e seleção de países visitados
